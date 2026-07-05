@@ -1,0 +1,54 @@
+# 📊 Customer Churn Analysis Dashboard
+
+## 📌 Overview
+This project is an end-to-end Customer Churn Analysis solution built with Power BI. It includes data cleaning, SQL data preparation, Power Query transformations, DAX calculations, interactive dashboards, and a Python-based Random Forest model to predict customer churn.
+
+## 🚀 Features
+- Customer Churn Analysis Dashboard
+- Churn Prediction using Random Forest
+- Interactive KPIs and Visualizations
+- Drill Down & Drill Through
+- Dynamic Filters & Slicers
+- Star Schema Data Model
+
+## 🛠 Technologies Used
+- Power BI
+- SQL Server
+- Power Query
+- DAX
+- Python (Pandas, NumPy, Scikit-learn)
+- Excel
+
+## 📈 Key KPIs
+- Total Customers
+- Churn Customers
+- Churn Rate
+- Revenue
+- Monthly Charges
+- Customer Segmentation
+
+## 📂 Repository Structure
+```
+📁 Customer-Churn-Analysis
+│── Churn Analysis.pbix
+│── SQL Queries.docx
+│── Power Query Transformations & Measures.docx
+│── Python Codes for Random Forest.docx
+│── README.md
+```
+
+## 📷 Dashboard Preview
+> Add screenshots of your dashboard here.
+
+## 🎯 Project Highlights
+- Cleaned and transformed data using SQL Server and Power Query.
+- Built a Star Schema data model.
+- Created DAX measures for KPIs and business insights.
+- Developed an interactive Power BI dashboard.
+- Built a Random Forest machine learning model in Python to predict customer churn.
+
+## 👤 Author
+**Mohamed El Sayed**
+
+- GitHub: https://github.com/YourUsername
+- LinkedIn: https://linkedin.com/in/YourProfile
